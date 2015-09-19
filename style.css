@@ -1,0 +1,35 @@
+a:visited{
+  color: blue;
+}
+body{
+  padding: 10px 100px 10px 100px;
+}
+span{
+  font-weight: 800;
+}
+second{
+  word-spacing: 5px;
+}
+welcome{ 
+  text-align: right;
+  font-weight: 800;
+}
+img{
+  width: 23%
+}
+.small{
+  font-size: 12px;
+  text-align: center;
+}
+.botLinkHolder{
+  text-align: center;
+}
+.first{
+  display: inline;
+  margin-left: 20%
+}
+.sec{
+  display: inline;
+  margin-right: 20%;
+  padding-left: 40px;
+}
